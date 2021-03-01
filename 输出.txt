@@ -1,0 +1,23 @@
+
+/************************基本输入输出函数**********************/
+
+window.alert(内容);   // 网页内弹出对话框显示输出内容
+
+document.getElementById(id).innerHTML="内容"/函数；   // 操作HTML元素，id为某个标签的id，修改某个标签的内容
+
+document.write(内容);  // 将内容输出到HTML文档中
+
+console.log(内容)；   //  输出到控制台 
+
+
+
+
+
+
+
+
+
+
+
+
+

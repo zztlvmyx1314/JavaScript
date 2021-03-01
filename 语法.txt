@@ -1,0 +1,61 @@
+
+/***************************************基本语法****************************************/
+
+************数据类型：
+
+值类型(基本类型)：字符串（String）、数字(Number)、布尔(Boolean)、对空（Null）、未定义（Undefined）、Symbol。
+
+引用数据类型：对象(Object)、数组(Array)、函数(Function)。
+
+
+
+************声明变量：
+
+var 变量名=值； // 声明变量
+
+var lastname="Doe", age=30, job="carpenter";   // 一天语句声明多个变量
+
+var carname;           // 未赋值的变量，其值默认为undefined
+
+
+
+***********函数：
+function functionname()
+{
+    // 执行代码
+}                                     // 定义普通函数
+
+
+methodName : function() {
+    // 代码 
+}                                                 // 定义对象内的方法
+
+
+
+************数组：
+
+var cars=new Array();    // 创建数组
+
+var cars=new Array("Saab","Volvo","BMW");  // 创建数组并初始化
+
+
+**************对象:
+
+var person={
+firstname : "John",
+lastname  : "Doe",
+id        :  5566
+};                           // 声明一个对象并初始化
+
+
+var person= new Object;   // 另一种声明变量的方式
+
+
+
+
+
+
+
+
+
+
